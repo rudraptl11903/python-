@@ -1,4 +1,4 @@
-#takes basic product informatio
+#takes basic product information
 product_name = input("Enter the product name: ")
 price = float(input("Enter the price of the product :"))
 Quantity = input("Enter the quantity of the product :")
