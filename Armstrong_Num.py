@@ -1,4 +1,4 @@
-# Program to check Armstrong number
+#  Program to check Armstrong number
 
 num = int(input("Enter a number: "))
 
